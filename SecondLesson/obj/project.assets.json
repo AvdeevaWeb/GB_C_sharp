@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\GB\\GB_C_sharp\\FirstLesson\\FirstLesson.csproj",
-      "projectName": "FirstLesson",
-      "projectPath": "C:\\Users\\User\\Desktop\\GB\\GB_C_sharp\\FirstLesson\\FirstLesson.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\GB\\GB_C_sharp\\SecondLesson\\SecondLesson.csproj",
+      "projectName": "SecondLesson",
+      "projectPath": "C:\\Users\\User\\Desktop\\GB\\GB_C_sharp\\SecondLesson\\SecondLesson.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\GB\\GB_C_sharp\\FirstLesson\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\GB\\GB_C_sharp\\SecondLesson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

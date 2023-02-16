@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\bin\Debug\net7.0\SecondLesson.exe
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\bin\Debug\net7.0\SecondLesson.deps.json
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\bin\Debug\net7.0\SecondLesson.runtimeconfig.json
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\bin\Debug\net7.0\SecondLesson.dll
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\bin\Debug\net7.0\SecondLesson.pdb
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\SecondLesson.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\SecondLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\SecondLesson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\SecondLesson.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\SecondLesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\SecondLesson.dll
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\refint\SecondLesson.dll
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\SecondLesson.pdb
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\SecondLesson.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\GB_C_sharp\SecondLesson\obj\Debug\net7.0\ref\SecondLesson.dll
