@@ -6,6 +6,8 @@ namespace FirstLesson
     {
 
         static void Main(string[] args){
+                ex10();
+                ex13();
                 ex15();
         }
 
@@ -15,11 +17,11 @@ namespace FirstLesson
             Console.WriteLine("Enter a three-digit number");
             int threeDigit = Convert.ToInt32(Console.ReadLine());
 
-            if(threeDigit <= 999 && threeDigit >= -999){
+            if(threeDigit <= 999 && threeDigit >= 100){
                 int res = threeDigit / 10 % 10;
                 Console.WriteLine(res);
             }
-            else  Console.WriteLine("You entered a non-three-digit number");  
+            else Console.WriteLine("You entered a non-three-digit number");  
         }
 
         static void ex13(){
